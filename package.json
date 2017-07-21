@@ -1,0 +1,23 @@
+{
+  "name": "ng-bare",
+  "version": "0.0.0",
+  "description": "A bare ng boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paska27/ng-bare.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/paska27/ng-bare#readme",
+  "dependencies": {
+    "@angular/common": "^4.3.1",
+    "@angular/compiler": "^4.3.1",
+    "@angular/core": "^4.3.1",
+    "@angular/platform-browser": "^4.3.1",
+    "@angular/platform-browser-dynamic": "^4.3.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.2.2",
+    "@angular/compiler-cli": "^4.3.1",
+    "typescript": "^2.4.2"
+  }
+}

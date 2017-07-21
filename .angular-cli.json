@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "project": {
+    "name": "questions-app"
+  },
+  "apps": [{
+    "outDir": "dist",
+    "root": "src",
+    "main": "main.ts",
+    "tsconfig": "tsconfig.app.json",
+    "polyfills": "polyfills.ts"
+  }]
+}
